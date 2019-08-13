@@ -83,7 +83,7 @@ section .button1 {
   text-transform: capitalize;
 }
 .videoframe{
-  
+
   flex-wrap: wrap;
   padding: 20px;
 }
@@ -160,7 +160,7 @@ footer {
   }
 
   .features figure {
-    top: -150px;
+    top: 150px;
   }
 
   li {
